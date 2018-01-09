@@ -14,7 +14,8 @@ GEM
       rainbow (~> 2.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    httparty (0.15.6)
+    httparty (0.13.6)
+      json (~> 1.8)
       multi_xml (>= 0.5.2)
     json (1.8.6)
     mime-types (3.1)
@@ -65,7 +66,7 @@ PLATFORMS
 
 DEPENDENCIES
   holepicker
-  httparty
+  httparty (= 0.13.6)
   sauce
 
 BUNDLED WITH
