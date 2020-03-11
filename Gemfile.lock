@@ -105,7 +105,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rails (= 5.0.0)
+  rails
 
 BUNDLED WITH
    1.17.3
